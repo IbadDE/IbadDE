@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbadDE
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Data analysis 
+- 🌱 I’m currently looking for a job as a Data analyst.
 - 📫 How to reach me Ibadullah99@icloud.com
 
 <!---
