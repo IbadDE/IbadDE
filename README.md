@@ -46,28 +46,41 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 
+<details>
+ <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/python.html">Python Project</a></h2></summary>
 
-### Self-Projects:
-#### Python Project: [Click Here](https://ibadde.github.io/Ibadullah.github.io/python.html)
 - Helped a cycling company convert casual riders to membership riders.
+  
 - Scraped data from IMDB using Beautiful Soup to analyze top 250 movies.
+  
 - Extracted data from various websites to analyze PSL matches from 2016 to 2022.
+  
 - Analyzed Netflix data to understand age recommendations, country preferences, and genre popularity.
+  
 - Conducted an analysis of data science salaries.
+  
 - Represented European soccer data using visual statistics. 
+  
+</details>
+  
 
----
 
-#### SQL Projects: [Click Here](https://ibadde.github.io/Ibadullah.github.io/sql.html)
+<details>
+  <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/sql.html">SQL Projects</a></h2></summary>
+
 - Created a schema for a Bus Rapid Transport (BRT) service in Peshawar.
 - Cleaned a dataset of Bangalore house prices.
 - Analyzed data from a European soccer database.
 - Conducted an analysis of nuclear warhead data. 
 - 8 Week SQL Challenge by Danny Ma. [Click Here](https://ibadde.github.io/Ibadullah.github.io/sqlchallenge.html)
 
----
+</details>
 
-#### Tableau Projects: [Click Here](https://ibadde.github.io/Ibadullah.github.io/tableau.html)
+
+
+<details>
+  <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/tableau.html">Tableau Projects</a></h2></summary>
+
 - Created a dashboard to analyze Berkshire Hathaway Holdings from 1994 to 2022.
 - Created a visualization of the Human Development Report.
 - USA/Foreign FDA inspection.
@@ -76,6 +89,8 @@ Experienced data analyst with a strong background in data mining, data wrangling
 - Gender Gap in Govt Sector of Pakistan.
 - An Analysis of Late Shipments at FedEx: Insights and Recommendations
 - Tracking United States Migration
+
+</details>
 
 ---
 
