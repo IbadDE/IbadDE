@@ -39,7 +39,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 ---
 
 
-
+---
 
 
 
@@ -49,16 +49,11 @@ Experienced data analyst with a strong background in data mining, data wrangling
 <details>
  <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/python.html">Python Project</a></h2></summary>
 
-- Helped a cycling company convert casual riders to membership riders.
-  
+- Helped a cycling company convert casual riders to membership riders.  
 - Scraped data from IMDB using Beautiful Soup to analyze top 250 movies.
-  
 - Extracted data from various websites to analyze PSL matches from 2016 to 2022.
-  
 - Analyzed Netflix data to understand age recommendations, country preferences, and genre popularity.
-  
 - Conducted an analysis of data science salaries.
-  
 - Represented European soccer data using visual statistics. 
   
 </details>
@@ -94,7 +89,10 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 ---
 
-### Skills:
+
+<details>
+  <summary><h3>Skills</h3></summary>
+
 - Strong proficiency in Microsoft Excel and Google Sheets.
 - Experience with SQL (DDL, DQL, DML).
 - Proficient in Power BI and Tableau.
@@ -103,18 +101,15 @@ Experienced data analyst with a strong background in data mining, data wrangling
 - Skilled in exploratory data analysis and data mining.
 - Proficient in data-driven decision making and ETL.
 - Familiarity with Git and Github.
+</details>
 
----
-
-### Certificates:
+ <details>
+  <summary><h3>Certificates</h3></summary>
+  
 - Google Data Analytics Certification (Coursera)
 - MYSQL (HackerRank)
 - Professional Data Analyst (Datacamp)
 - Data Analyst with Python (Datacamp)
 - Tableau (Great Learning)
 - PostgreSQL (Datacamp)
-
----
-
-### Education:
-- MS in Electrical Power Engineering from UET Peshawar (Mar 2019 - Nov 2022)
+</details>
