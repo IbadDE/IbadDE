@@ -1,6 +1,5 @@
 #  Hi, I'm Ibad Ullah
-## Data Analyst | [ibadullah99@icloud.com](mailto:ibadullah99@icloud.com) | [https://ibadde.github.io/Ibadullah.github.io/](https://ibadde.github.io/Ibadullah.github.io/)
-
+## Data Analyst | [ibadullah99@icloud.com](mailto:ibadullah99@icloud.com)
 ---
 
 ### Summary:
@@ -20,6 +19,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 <a href="https://stackoverflow.com/users/19055966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19055966" height="30" width="40" /></a>
 <a href="https://kaggle.com/ibadkhanml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibadkhanml" height="30" width="40" /></a>
 <a href="https://medium.com/@ibadullah99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibadullah99" height="30" width="40" /></a>
+ <a href="https://ibadde.github.io/IbadKhan.github.io/"> Portfolio </a>
 </p>
 
 ---
@@ -37,15 +37,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadde&label=Profile%20views&color=0e75b6&style=flat" alt="ibadde" /> </p>
 
 ---
-
-
 ---
-
-
-
-
-
-
 <details>
  <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/python.html">Python Project</a></h2></summary>
 
