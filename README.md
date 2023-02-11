@@ -105,3 +105,8 @@ Experienced data analyst with a strong background in data mining, data wrangling
 - Tableau (Great Learning)
 - PostgreSQL (Datacamp)
 </details>
+
+---
+
+#### BLOGS
+- Converting hhmm or hmm time format to readable time in Excel. [link](https://medium.com/@ibadullah99/converting-hhmm-or-hmm-time-format-to-readable-time-in-excel-2503a190714d)
