@@ -37,7 +37,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 ---
 <details>
- <summary><h2>Python Project</h2></summary>
+ <summary><h3>Python Project</h3></summary>
 
 - Helped a cycling company convert casual riders to membership riders.  
 - Scraped data from IMDB using Beautiful Soup to analyze top 250 movies.
@@ -51,7 +51,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 <details>
-  <summary><h2>SQL Projects</h2></summary>
+  <summary><h3>SQL Projects</h3></summary>
 
 - Created a schema for a Bus Rapid Transport (BRT) service in Peshawar.
 - Cleaned a dataset of Bangalore house prices.
@@ -64,7 +64,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 <details>
-  <summary><h2>Tableau Projects</h2></summary>
+  <summary><h3>Tableau Projects</h3></summary>
 
 - Created a dashboard to analyze Berkshire Hathaway Holdings from 1994 to 2022.
 - Created a visualization of the Human Development Report.
@@ -81,7 +81,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 <details>
-  <summary><h3>Skills</h3></summary>
+  <summary><h4>Skills</h4></summary>
 
 - Strong proficiency in Microsoft Excel and Google Sheets.
 - Experience with SQL (DDL, DQL, DML).
@@ -94,7 +94,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 </details>
 
  <details>
-  <summary><h3>Certificates</h3></summary>
+  <summary><h4>Certificates</h4></summary>
   
 - Google Data Analytics Certification (Coursera)
 - MYSQL (HackerRank)
