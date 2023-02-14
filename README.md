@@ -27,19 +27,17 @@ Experienced data analyst with a strong background in data mining, data wrangling
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibadde&show_icons=true&locale=en&layout=compact" alt="ibadde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibadde&show_icons=true&locale=en" alt="ibadde" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibadde&" alt="ibadde" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadde&label=Profile%20views&color=0e75b6&style=flat" alt="ibadde" /> </p>
 
----
+
 ---
 <details>
- <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/python.html">Python Project</a></h2></summary>
+ <summary><h2>Python Project</h2></summary>
 
 - Helped a cycling company convert casual riders to membership riders.  
 - Scraped data from IMDB using Beautiful Soup to analyze top 250 movies.
@@ -53,7 +51,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 <details>
-  <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/sql.html">SQL Projects</a></h2></summary>
+  <summary><h2>SQL Projects</h2></summary>
 
 - Created a schema for a Bus Rapid Transport (BRT) service in Peshawar.
 - Cleaned a dataset of Bangalore house prices.
@@ -66,7 +64,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 <details>
-  <summary><h2><a href="https://ibadde.github.io/Ibadullah.github.io/tableau.html">Tableau Projects</a></h2></summary>
+  <summary><h2>Tableau Projects</h2></summary>
 
 - Created a dashboard to analyze Berkshire Hathaway Holdings from 1994 to 2022.
 - Created a visualization of the Human Development Report.
@@ -110,3 +108,4 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 #### BLOGS
 - Converting hhmm or hmm time format to readable time in Excel. [link](https://medium.com/@ibadullah99/converting-hhmm-or-hmm-time-format-to-readable-time-in-excel-2503a190714d)
+- From Scraping to Visualization: An Insight into my PSL Analysis Project. [link](https://medium.com/@ibadullah99/from-scraping-to-visualization-an-insight-into-my-psl-analysis-project-2bb53ed8c221)
