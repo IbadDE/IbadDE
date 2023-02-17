@@ -1,6 +1,5 @@
 #  Hi, I'm Ibad Ullah
 ## Data Analyst | [ibadullah99@icloud.com](mailto:ibadullah99@icloud.com)
----
 
 ### Summary:
 Experienced data analyst with a strong background in data mining, data wrangling, data manipulation, and data visualization. Skilled in Python, SQL, and Tableau, as well as Microsoft Excel and Google Sheets. Holds multiple certificates in data analytics and has a MS degree in Electrical Power Engineering from UET Peshawar.
@@ -36,6 +35,13 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 ---
+
+<details>
+ <summary><h3> Full Projects </h3></summary>
+- Comparing San Francisco and New York Citibike Usage Patterns: A BigQuery Analysis and Visualization
+- Extracting data for Pakistan Super League and then finding insights. 
+</details>
+
 <details>
  <summary><h3>Python Project</h3></summary>
 
@@ -48,7 +54,6 @@ Experienced data analyst with a strong background in data mining, data wrangling
   
 </details>
   
-
 
 <details>
   <summary><h3>SQL Projects</h3></summary>
