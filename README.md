@@ -38,8 +38,10 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 <details>
  <summary><h3> Full Projects </h3></summary>
+ 
 - Comparing San Francisco and New York Citibike Usage Patterns: A BigQuery Analysis and Visualization
 - Extracting data for Pakistan Super League and then finding insights. 
+ 
 </details>
 
 <details>
