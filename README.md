@@ -116,3 +116,9 @@ Experienced data analyst with a strong background in data mining, data wrangling
 #### BLOGS
 - Converting hhmm or hmm time format to readable time in Excel. [link](https://medium.com/@ibadullah99/converting-hhmm-or-hmm-time-format-to-readable-time-in-excel-2503a190714d)
 - From Scraping to Visualization: An Insight into my PSL Analysis Project. [link](https://medium.com/@ibadullah99/from-scraping-to-visualization-an-insight-into-my-psl-analysis-project-2bb53ed8c221)
+
+
+#### Free Resources
+- Learn Tableau from [Andy Kriebel](https://www.youtube.com/@vizwiz), [Tableau Tim](https://www.youtube.com/@TableauTim) and [Data Viz Canvas](https://www.youtube.com/@DataVizCanvas).
+- Learn SQL from [techTFQ](https://www.youtube.com/@techTFQ)
+- Data Analyst Journey [Alex The Analyst ](https://www.youtube.com/@AlexTheAnalyst) and [Luke Barousse](https://www.youtube.com/@LukeBarousse)
