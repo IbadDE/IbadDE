@@ -120,5 +120,6 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 #### Free Resources
 - Learn Tableau from [Andy Kriebel](https://www.youtube.com/@vizwiz), [Tableau Tim](https://www.youtube.com/@TableauTim) and [Data Viz Canvas](https://www.youtube.com/@DataVizCanvas).
-- Learn SQL from [techTFQ](https://www.youtube.com/@techTFQ)
-- Data Analyst Journey [Alex The Analyst ](https://www.youtube.com/@AlexTheAnalyst) and [Luke Barousse](https://www.youtube.com/@LukeBarousse)
+- Learn SQL from [techTFQ](https://www.youtube.com/@techTFQ).
+- Data Analyst Journey [Alex The Analyst ](https://www.youtube.com/@AlexTheAnalyst) and [Luke Barousse](https://www.youtube.com/@LukeBarousse).
+- Excel and Power BI [Chandoo](https://www.youtube.com/@chandoo_).
