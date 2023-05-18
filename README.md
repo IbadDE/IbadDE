@@ -103,7 +103,7 @@ Experienced data analyst with a strong background in data mining, data wrangling
  <details>
   <summary><h4>Certificates</h4></summary>
   
-- Google Data Analytics Certification (Coursera)
+- Google Data Analytics (Coursera)
 - Google Business Intelligence (Coursera)
 - MYSQL (HackerRank)
 - Professional Data Analyst (Datacamp)
