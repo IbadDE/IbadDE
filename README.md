@@ -2,7 +2,7 @@
 ## Data Analyst | [ibadullah99@icloud.com](mailto:ibadullah99@icloud.com)
 
 ### Summary:
-Experienced data analyst with a strong background in data mining, data wrangling, data manipulation, and data visualization. Skilled in Python, SQL, and Tableau, as well as Microsoft Excel and Google Sheets. Holds multiple certificates in data analytics and has a MS degree in Electrical Power Engineering from UET Peshawar.
+Experienced data analyst with a strong background in data mining, data wrangling, data manipulation, and data visualization. Skilled in Python, SQL, and Tableau, as well as Microsoft Excel and Google Sheets. Holds multiple certificates in data analytics.
 
 
 
