@@ -6,10 +6,6 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 
-- 🌱 I’m currently **enhancing my skills to next level.**
-
-- 💬 Ask me about **anything related to data analysis.**
-
 --- 
 
 <h3 align="left">Connect with me:</h3>
