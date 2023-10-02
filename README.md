@@ -26,9 +26,6 @@ Experienced data analyst with a strong background in data mining, data wrangling
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibadde&" alt="ibadde" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadde&label=Profile%20views&color=0e75b6&style=flat" alt="ibadde" /> </p>
-
 
 ---
 
