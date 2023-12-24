@@ -10,4 +10,4 @@ I'm Ibad Ullah. I enjoy working with data as it tells you a lot and that's why i
 
 
 ### How to reach me
-[gmail](mailto:ibadullah99@icloud.com) ▪️ [LinkedIn](https://www.linkedin.com/in/ibad-ullah-8a949822b/) ▪️ [Twitter](https://twitter.com/ibad_the_DA)
+[Gmail](mailto:ibadkhanml99@icloud.com) ▪️ [LinkedIn](https://www.linkedin.com/in/ibad-ullah-8a949822b/) ▪️ [Twitter](https://twitter.com/ibad_the_DA)
