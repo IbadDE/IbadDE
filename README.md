@@ -1,7 +1,7 @@
 
-### Hi there    [ibadullah99@icloud.com](mailto:ibadullah99@icloud.com)
+### Hi there 
 
-I'm Ibad Ullah. I enjoy working with data as it tells you a lot and that's why i became data analyst. For analysis i use different tools depending on the need. Three tools I often use are SQL, Tableau and Python. My favourite part is crunching numbers as I'm not very creative with data visualization even tho I can tackle any visualization using Tableau [( See my Tableau profile )] (https://public.tableau.com/app/profile/ibad.ullah7549/vizzes) or python.   
+I'm Ibad Ullah. I enjoy working with data as it tells you a lot and that's why i became data analyst. For analysis i use different tools depending on the need. Three tools I often use are SQL, Tableau and Python. My favourite part is crunching numbers as I'm not very creative with data visualization even tho I can tackle any visualization using Tableau [( See my Tableau profile )] (https://public.tableau.com/app/profile/ibad.ullah7549/vizzes) or python.
 
 
 
